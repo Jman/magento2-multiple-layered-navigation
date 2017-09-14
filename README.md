@@ -6,7 +6,7 @@ This extension gives you an ability to choose a few options of one filterable at
 
 First add repository to composer configuration:
 ```bash
-composer config repositories.niks-multiple-layered-navigation vcs git@github.com:NikZh/magento2-multiple-layered-navigation.git
+composer config repositories.niks-multiple-layered-navigation vcs git@github.com:Jman/magento2-multiple-layered-navigation.git
 ```
 
 Require new package with composer:
